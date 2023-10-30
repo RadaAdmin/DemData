@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="EU_DEM" id="EU_DEM">
+	<SimpleField name="Shape_Length" type="float"></SimpleField>
+	<SimpleField name="Shape_Area" type="float"></SimpleField>
+	<SimpleField name="OBJECTID_1" type="int"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="Category" type="int"></SimpleField>
+	<SimpleField name="CenterX" type="int"></SimpleField>
+	<SimpleField name="CenterY" type="int"></SimpleField>
+	<SimpleField name="Shape_Leng" type="int"></SimpleField>
+	<SimpleField name="DOWNLOAD" type="string"></SimpleField>
+</Schema>
+<Folder><name>EU_DEM</name>
+  <Placemark>
+	<name>eud_cp-dems_2500015000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">4866063.40598081</SimpleData>
+		<SimpleData name="Shape_Area">1475878304594.16</SimpleData>
+		<SimpleData name="OBJECTID_1">1</SimpleData>
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">2500000</SimpleData>
+		<SimpleData name="CenterY">1500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-2500015000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-13.6844111488879,28.7793014699075,0 -3.67400950081162,30.9487983894431,0 -5.47946414732305,39.8760277864287,0 -16.6036807618211,37.389223372504,0 -13.6844111488879,28.7793014699075,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_2500025000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">5493483.98070715</SimpleData>
+		<SimpleData name="Shape_Area">1879871333235.62</SimpleData>
+		<SimpleData name="OBJECTID_1">2</SimpleData>
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">2500000</SimpleData>
+		<SimpleData name="CenterY">2500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-2500025000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-16.6036807618211,37.389223372504,0 -5.47946414732305,39.8760277864287,0 -8.12764361166725,48.6398532096241,0 -20.7567248810989,45.695204190624,0 -16.6036807618211,37.389223372504,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_2500035000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">6448200.43981327</SimpleData>
+		<SimpleData name="Shape_Area">2585175663020.51</SimpleData>
+		<SimpleData name="OBJECTID_1">3</SimpleData>
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">2500000</SimpleData>
+		<SimpleData name="CenterY">3500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-2500035000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-20.7567248810989,45.695204190624,0 -8.12764361166725,48.6398532096241,0 -12.2662710345645,57.2303299594908,0 -26.9014231062306,53.5993398487827,0 -20.7567248810989,45.695204190624,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_2500045000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">7939193.11081118</SimpleData>
+		<SimpleData name="Shape_Area">3903891835342.28</SimpleData>
+		<SimpleData name="OBJECTID_1">4</SimpleData>
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">2500000</SimpleData>
+		<SimpleData name="CenterY">4500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-2500045000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-26.9014231062306,53.5993398487827,0 -12.2662710345645,57.2303299594908,0 -19.4112879155442,65.54198563711,0 -36.4523893424528,60.8380247499517,0 -26.9014231062306,53.5993398487827,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_2500055000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">10312167.0072</SimpleData>
+		<SimpleData name="Shape_Area">6534749174894.15</SimpleData>
+		<SimpleData name="OBJECTID_1">5</SimpleData>
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">2500000</SimpleData>
+		<SimpleData name="CenterY">5500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-2500055000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-36.4523893424528,60.8380247499517,0 -19.4112879155442,65.54198563711,0 -33.6901595899737,73.1474702447244,0 -51.8441783597228,66.7700089498081,0 -36.4523893424528,60.8380247499517,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_3500015000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">4967555.74523181</SimpleData>
+		<SimpleData name="Shape_Area">1538961522017.83</SimpleData>
+		<SimpleData name="OBJECTID_1">6</SimpleData>
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">3500000</SimpleData>
+		<SimpleData name="CenterY">1500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-3500015000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-3.67400950081162,30.9487983894431,0 6.65443083974978,31.9433228122016,0 6.19804653689352,41.0268039736452,0 -5.47946414732305,39.8760277864287,0 -3.67400950081162,30.9487983894431,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_3500025000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">5681722.71266844</SimpleData>
+		<SimpleData name="Shape_Area">2010887426437.75</SimpleData>
+		<SimpleData name="OBJECTID_1">7</SimpleData>
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">3500000</SimpleData>
+		<SimpleData name="CenterY">2500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-3500025000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-5.47946414732305,39.8760277864287,0 6.19804653689352,41.0268039736452,0 5.51779621271062,50.0241187618591,0 -8.12764361166725,48.6398532096241,0 -5.47946414732305,39.8760277864287,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_3500035000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">6821730.78080282</SimpleData>
+		<SimpleData name="Shape_Area">2891577125726.15</SimpleData>
+		<SimpleData name="OBJECTID_1">8</SimpleData>
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">3500000</SimpleData>
+		<SimpleData name="CenterY">3500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-3500035000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-8.12764361166725,48.6398532096241,0 5.51779621271062,50.0241187618591,0 4.42141922849813,58.9876176859643,0 -12.2662710345645,57.2303299594908,0 -8.12764361166725,48.6398532096241,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_3500045000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">8786917.49150092</SimpleData>
+		<SimpleData name="Shape_Area">4771885658220.1</SimpleData>
+		<SimpleData name="OBJECTID_1">9</SimpleData>
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">3500000</SimpleData>
+		<SimpleData name="CenterY">4500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-3500045000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-12.2662710345645,57.2303299594908,0 4.42141922849813,58.9876176859643,0 2.39524248628805,67.9622322843697,0 -19.4112879155442,65.54198563711,0 -12.2662710345645,57.2303299594908,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_3500055000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">12710452.1996195</SimpleData>
+		<SimpleData name="Shape_Area">9839124332156.85</SimpleData>
+		<SimpleData name="OBJECTID_1">10</SimpleData>
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">3500000</SimpleData>
+		<SimpleData name="CenterY">5500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-3500055000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-19.4112879155442,65.54198563711,0 2.39524248628805,67.9622322843697,0 -2.52214594945815,76.9614638446896,0 -33.6901595899737,73.1474702447244,0 -19.4112879155442,65.54198563711,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_4500015000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">4993972.87795829</SimpleData>
+		<SimpleData name="Shape_Area">1555558069145.4</SimpleData>
+		<SimpleData name="OBJECTID_1">11</SimpleData>
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">4500000</SimpleData>
+		<SimpleData name="CenterY">1500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-4500015000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>6.65443083974978,31.9433228122016,0 17.0660563991261,31.725569378952,0 18.0230477071247,40.7742187595058,0 6.19804653689352,41.0268039736452,0 6.65443083974978,31.9433228122016,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_4500025000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">5731669.68904986</SimpleData>
+		<SimpleData name="Shape_Area">2046353114155.85</SimpleData>
+		<SimpleData name="OBJECTID_1">12</SimpleData>
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">4500000</SimpleData>
+		<SimpleData name="CenterY">2500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-4500025000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>6.19804653689352,41.0268039736452,0 18.0230477071247,40.7742187595058,0 19.4442781760442,49.7189948616337,0 5.51779621271062,50.0241187618591,0 6.19804653689352,41.0268039736452,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_4500035000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">6924937.56135742</SimpleData>
+		<SimpleData name="Shape_Area">2979167830999.19</SimpleData>
+		<SimpleData name="OBJECTID_1">13</SimpleData>
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">4500000</SimpleData>
+		<SimpleData name="CenterY">3500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-4500035000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>5.51779621271062,50.0241187618591,0 19.4442781760442,49.7189948616337,0 21.7186639084599,58.5970559665104,0 4.42141922849813,58.9876176859643,0 5.51779621271062,50.0241187618591,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_4500045000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">9042165.23220901</SimpleData>
+		<SimpleData name="Shape_Area">5049432448445.31</SimpleData>
+		<SimpleData name="OBJECTID_1">14</SimpleData>
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">4500000</SimpleData>
+		<SimpleData name="CenterY">4500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-4500045000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>4.42141922849813,58.9876176859643,0 21.7186639084599,58.5970559665104,0 25.8534558071649,67.4138070613789,0 2.39524248628805,67.9622322843697,0 4.42141922849813,58.9876176859643,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_4500055000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">13597378.6012911</SimpleData>
+		<SimpleData name="Shape_Area">11211329387442</SimpleData>
+		<SimpleData name="OBJECTID_1">15</SimpleData>
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">4500000</SimpleData>
+		<SimpleData name="CenterY">5500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-4500055000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.39524248628805,67.9622322843697,0 25.8534558071649,67.4138070613789,0 35.3728492597267,76.0431217798044,0 -2.52214594945815,76.9614638446896,0 2.39524248628805,67.9622322843697,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_5500015000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">4938929.8952998</SimpleData>
+		<SimpleData name="Shape_Area">1521061070809.23</SimpleData>
+		<SimpleData name="OBJECTID_1">16</SimpleData>
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">5500000</SimpleData>
+		<SimpleData name="CenterY">1500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-5500015000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>17.0660563991261,31.725569378952,0 27.3045347956592,30.3039800959516,0 29.5423688633933,39.133651395358,0 18.0230477071247,40.7742187595058,0 17.0660563991261,31.725569378952,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_5500025000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">5628055.48586084</SimpleData>
+		<SimpleData name="Shape_Area">1973109928592.9</SimpleData>
+		<SimpleData name="OBJECTID_1">17</SimpleData>
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">5500000</SimpleData>
+		<SimpleData name="CenterY">2500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-5500025000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>18.0230477071247,40.7742187595058,0 29.5423688633933,39.133651395358,0 32.7931147698043,47.7544677175834,0 19.4442781760442,49.7189948616337,0 18.0230477071247,40.7742187595058,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_5500035000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">6712816.45149767</SimpleData>
+		<SimpleData name="Shape_Area">2800521198491.17</SimpleData>
+		<SimpleData name="OBJECTID_1">18</SimpleData>
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">5500000</SimpleData>
+		<SimpleData name="CenterY">3500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-5500035000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>19.4442781760442,49.7189948616337,0 32.7931147698043,47.7544677175834,0 37.7834685231434,56.124536480565,0 21.7186639084599,58.5970559665104,0 19.4442781760442,49.7189948616337,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_5500045000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">8527994.96717856</SimpleData>
+		<SimpleData name="Shape_Area">4497971455180.62</SimpleData>
+		<SimpleData name="OBJECTID_1">19</SimpleData>
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">5500000</SimpleData>
+		<SimpleData name="CenterY">4500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-5500045000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>21.7186639084599,58.5970559665104,0 37.7834685231434,56.124536480565,0 46.0919043703534,64.0732851904302,0 25.8534558071649,67.4138070613789,0 21.7186639084599,58.5970559665104,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_5500055000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">11895469.7220981</SimpleData>
+		<SimpleData name="Shape_Area">8647612529603.79</SimpleData>
+		<SimpleData name="OBJECTID_1">20</SimpleData>
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">5500000</SimpleData>
+		<SimpleData name="CenterY">5500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-5500055000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>25.8534558071649,67.4138070613789,0 46.0919043703534,64.0732851904302,0 61.3723685736875,71.0529437596128,0 35.3728492597267,76.0431217798044,0 25.8534558071649,67.4138070613789,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_6500015000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">4815536.82824716</SimpleData>
+		<SimpleData name="Shape_Area">1444858111594.27</SimpleData>
+		<SimpleData name="OBJECTID_1">21</SimpleData>
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">6500000</SimpleData>
+		<SimpleData name="CenterY">1500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-6500015000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>27.3045347956592,30.3039800959516,0 37.1576520438947,27.729951202777,0 40.3988945938633,36.1969474650519,0 29.5423688633933,39.133651395358,0 27.3045347956592,30.3039800959516,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_6500025000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">5401783.87967951</SimpleData>
+		<SimpleData name="Shape_Area">1817541445626.32</SimpleData>
+		<SimpleData name="OBJECTID_1">22</SimpleData>
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">6500000</SimpleData>
+		<SimpleData name="CenterY">2500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-6500025000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>29.5423688633933,39.133651395358,0 40.3988945938633,36.1969474650519,0 44.9509407341123,44.3032310291582,0 32.7931147698043,47.7544677175834,0 29.5423688633933,39.133651395358,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>eud_cp-dems_7500025000-aa</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#EU_DEM">
+		<SimpleData name="Shape_Length">5110435.75308722</SimpleData>
+		<SimpleData name="Shape_Area">1625792643770.48</SimpleData>
+		<SimpleData name="OBJECTID_1">23</SimpleData>
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="Category">1</SimpleData>
+		<SimpleData name="CenterX">7500000</SimpleData>
+		<SimpleData name="CenterY">2500000</SimpleData>
+		<SimpleData name="Shape_Leng">0</SimpleData>
+		<SimpleData name="DOWNLOAD">http://land.copernicus.eu/pan-european/satellite-derived-products/eu-dem/eu-dem-v1-0-and-derived-products/eu-dem-v1.0?fieldsetlegend-download=True-selected-@eu-dem-7500025000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>40.3988945938633,36.1969474650519,0 50.4163773927281,32.0981217821353,0 55.710996176015,39.5981778312996,0 44.9509407341123,44.3032310291582,0 40.3988945938633,36.1969474650519,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
